@@ -1,0 +1,2 @@
+Name: Nokri Gig Finder App
+Appstore: https://apps.apple.com/us/app/nokri/id1430717904?ls=1

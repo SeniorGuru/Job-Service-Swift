@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "53E37710-ED0C-49AD-A894-D69E9A3B1046"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DEE7D0F-DD94-4B87-B24F-0C4D03562CC5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nokri/Controllers/Company/JobPost/JobPostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "273"
+            endingLineNumber = "273"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6DEE7D0F-DD94-4B87-B24F-0C4D03562CC5 - ca08b607740eee26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gig_Finder.JobPostViewController.heightConstJobType.getter : Swift.Optional&lt;__C.NSLayoutConstraint&gt;"
+                  moduleName = "Gig Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blackrome/project/Nokri/Nokri/Controllers/Company/JobPost/JobPostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "269"
+                  endingLineNumber = "269"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "6DEE7D0F-DD94-4B87-B24F-0C4D03562CC5 - ba42cd6055395d8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gig_Finder.JobPostViewController.heightConstJobType.setter : Swift.Optional&lt;__C.NSLayoutConstraint&gt;"
+                  moduleName = "Gig Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blackrome/project/Nokri/Nokri/Controllers/Company/JobPost/JobPostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "269"
+                  endingLineNumber = "269"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "6DEE7D0F-DD94-4B87-B24F-0C4D03562CC5 - 9b717dd2ccd7820d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gig_Finder.JobPostViewController.heightConstJobType.modify : Swift.Optional&lt;__C.NSLayoutConstraint&gt;"
+                  moduleName = "Gig Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blackrome/project/Nokri/Nokri/Controllers/Company/JobPost/JobPostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "6DEE7D0F-DD94-4B87-B24F-0C4D03562CC5 - a233eae031c95d4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gig_Finder.JobPostViewController.heightConstJobType.modify : Swift.Optional&lt;__C.NSLayoutConstraint&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Gig Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blackrome/project/Nokri/Nokri/Controllers/Company/JobPost/JobPostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "269"
+                  endingLineNumber = "269"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "6DEE7D0F-DD94-4B87-B24F-0C4D03562CC5 - 2a115de204755137"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gig_Finder.JobPostViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Gig_Finder.JobPostViewController"
+                  moduleName = "Gig Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blackrome/project/Nokri/Nokri/Controllers/Company/JobPost/JobPostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "269"
+                  endingLineNumber = "269"
+                  offsetFromSymbolStart = "22998">
+               </Location>
+               <Location
+                  uuid = "6DEE7D0F-DD94-4B87-B24F-0C4D03562CC5 - bababe3cf3ff2017"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gig_Finder.JobPostViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Gig_Finder.JobPostViewController&gt;"
+                  moduleName = "Gig Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blackrome/project/Nokri/Nokri/Controllers/Company/JobPost/JobPostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "269"
+                  endingLineNumber = "269"
+                  offsetFromSymbolStart = "22930">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "126BE404-8668-4792-98BC-22292D0A1B5F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nokri/Controllers/Company/JobPost/JobPostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "272"
+            endingLineNumber = "272"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B083D3CD-3072-48D5-B95F-D2CAF0D24635"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nokri/Controllers/Company/JobPost/JobPostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "270"
+            endingLineNumber = "270"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B083D3CD-3072-48D5-B95F-D2CAF0D24635 - 5651648926670b5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gig_Finder.JobPostViewController.isHideQualification.getter : Swift.Bool"
+                  moduleName = "Gig Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blackrome/project/Nokri/Nokri/Controllers/Company/JobPost/JobPostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "B083D3CD-3072-48D5-B95F-D2CAF0D24635 - dc13927bba7c2742"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gig_Finder.JobPostViewController.isHideQualification.setter : Swift.Bool"
+                  moduleName = "Gig Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blackrome/project/Nokri/Nokri/Controllers/Company/JobPost/JobPostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "B083D3CD-3072-48D5-B95F-D2CAF0D24635 - 7f3ef6fee621345d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gig_Finder.JobPostViewController.isHideQualification.modify : Swift.Bool"
+                  moduleName = "Gig Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blackrome/project/Nokri/Nokri/Controllers/Company/JobPost/JobPostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "B083D3CD-3072-48D5-B95F-D2CAF0D24635 - f4be1d2ba898802e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gig_Finder.JobPostViewController.isHideQualification.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Gig Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blackrome/project/Nokri/Nokri/Controllers/Company/JobPost/JobPostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "B083D3CD-3072-48D5-B95F-D2CAF0D24635 - 2a115de204755137"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gig_Finder.JobPostViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Gig_Finder.JobPostViewController"
+                  moduleName = "Gig Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blackrome/project/Nokri/Nokri/Controllers/Company/JobPost/JobPostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "22708">
+               </Location>
+               <Location
+                  uuid = "B083D3CD-3072-48D5-B95F-D2CAF0D24635 - bababe3cf3ff2017"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gig_Finder.JobPostViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Gig_Finder.JobPostViewController&gt;"
+                  moduleName = "Gig Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/blackrome/project/Nokri/Nokri/Controllers/Company/JobPost/JobPostViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "22640">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32EA23D6-5A3A-470F-95A8-3F974D2C252C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nokri/Controllers/Company/JobPost/JobPostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "822"
+            endingLineNumber = "822"
+            landmarkName = "btnJobPostClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1023EDE0-5DF3-4007-82F5-3B1B8F8FEB32"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Nokri/Controllers/Company/JobPost/JobPostViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "819"
+            endingLineNumber = "819"
+            landmarkName = "btnJobPostClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
